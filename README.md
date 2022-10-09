@@ -2,7 +2,7 @@
 
 ## Description
 
-It's a simple react app for the Web Development React Cross-Skilling Nanodegree. its interact with server side using side effects and state managements with a smooth frontend interface.
+It's a simple react app for the Web Development React Cross-Skilling Nanodegree. It interacts with the server-side using side effects and state management with a smooth frontend interface.
 
 ## Dependencies
 
