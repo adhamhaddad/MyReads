@@ -12,7 +12,7 @@ It's a simple react app for the Web Development React Cross-Skilling Nanodegree.
 
 ## Installation
 
-From the root of the repo folder to intall the node_modules opent the terminal and type `npm install`. After installation is done start the api in dev mode with `npm run start`.
+From the root of the repo folder to intall the node_modules open the terminal and type `npm install`. After installation is done start the api in dev mode with `npm run start`.
 
 ## Built With
 
