@@ -1,4 +1,4 @@
-# MyRead
+# MyReads
 
 ## Description
 
