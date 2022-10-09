@@ -17,3 +17,4 @@ From the root of the repo folder to intall the node_modules opent the terminal a
 ## Built With
 
 - [React](https://reactjs.org/) - Single Page Application Library
+- [Node](https://nodejs.org) - Javascript Runtime
